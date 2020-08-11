@@ -1,0 +1,230 @@
+body {
+	background:;
+	background:url(../imagenes/mantel.jpg);
+	background-repeat:;
+	background-attachment:fixed;
+	color:black;
+	width:300;
+	font-size:20px;
+	line-height:30px;
+
+	
+	
+	}
+h1 {
+	background:#A3A2A4;
+	color:#F50805;
+	font-size:35px;
+	width:;
+	border:1px solid #000;
+	margin:10px;
+	position:relative;
+	top:;
+	bottom:;
+	right:20px;
+	left:;
+
+	
+}	
+h2 {
+	background:;
+	color:orange;
+	font-size:35px;
+	width:;
+	border:0px solid #000;
+	margin:10px;
+	text-align:center;
+	position:relative;
+	top:;
+	bottom:390px;
+	right:;
+	left:600px;
+    text-decoration:underline;
+	
+
+}
+h3 {
+	background:red;
+	width:300;
+	position:relative;
+	top:;
+	bottom:300px;
+	right:;
+	left:600px;
+
+	
+	
+}
+a {
+	padding:10px 20px;
+	color:white;
+	margin:10px 20px 10px 0px;
+	text-decoration:none;
+	font-size:25px;
+	position:relative;
+	top:;
+	bottom:380px;
+	background:black;
+	right:;
+	left:70px;
+}
+a:link {
+	color#ffffff;
+	
+}
+
+a:hover {
+	text-decoration:none;
+	background:white;
+	color:black;
+	box-shadow:0px  3px 0px #E70BCA;
+	
+}
+a:active{
+	background:aqua;
+}
+b {
+	color:black;
+}
+c {
+	position:relative;
+	top:;
+	bottom:px;
+	right:;
+	left:600px;
+	
+	
+}
+d{  
+    position:relative;
+	top:;
+	bottom:275px;
+	right:;
+	left:600px;
+	
+}
+p {
+	font-size:25px;
+	color:black;
+	font-family:italic;
+	color:#ffffff;
+	background:;
+	width:;
+	margin:;
+	text-align:center;
+}
+
+f {
+	color:black;
+	position:relative;
+	top:;
+	bottom:380px;
+	right:;
+	left:600px;
+
+}
+g {
+	color:black;
+	font-size:25px;
+	text-align:center;
+	background:orange;
+	width:;
+	position:relative;
+	top:17px;
+	bottom:;
+	right:250px;
+	left:;
+
+
+	
+}
+h4 {
+	font-size:35px;
+	color:orange;
+	text-align:center;
+	text-decoration:underline;
+	position:relative;
+	top:17px;
+	bottom:;
+	right:;
+	left:;
+	
+}
+l {
+	position:relative;
+	top:50px;
+	bottom:;
+	right:600px;
+	left:;
+
+}
+m {
+	color:black;
+	font-size:20px;
+    position:relative;
+	top:50px;
+	bottom:;
+	right:600px;
+	left:;
+}
+n {
+	color:white;
+	font-size:20px;
+    position:relative;
+	top:;
+	bottom:248px;
+	right:260px;
+	left:;
+}
+o {
+	color:black;
+	font-size:20px;
+    position:relative;
+	top:;
+	bottom:248px;
+	right:260px;
+	left:;
+	
+}
+r {
+	color:white;
+	font-size:20px;
+    position:relative;
+	top:;
+	bottom:545px;
+	right:;
+	left:100px;
+}
+
+t {
+	color:black;
+	font-size:20px;
+    position:relative;
+	top:;
+	bottom:545px;
+	right:;
+	left:100px;
+}
+
+v {
+	color:white;
+	font-size:;
+    position:relative;
+	top:;
+	bottom:500px;
+	right:400px;
+	left:;
+	
+}
+f p {
+	font-size:27px;
+	color:black;
+	
+}
+z p {
+		font-size:27px;
+
+	color:black;
+}
+
+
